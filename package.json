@@ -1,6 +1,6 @@
 {
   "name": "mixpanel-export",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mixpanel-export micro library",
   "directories": {
     "lib": "./lib"
